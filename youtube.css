@@ -166,7 +166,8 @@ body {
 .upload-icon-container,
 .youtube-app-container,
 .notify-container,
-.utube-logo-container {
+.utube-logo-container,
+.channel-container {
   display: flex;
   position: relative;
   justify-content: center;
@@ -206,12 +207,27 @@ body {
   white-space: nowrap;
 }
 
+.channel-container .tooltip {
+  position: absolute;
+  background-color: gray;
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  right: -10px;
+  bottom: -30px;
+  opacity: 0;
+  transition: opacity 0.15s;
+  pointer-events: none;
+  white-space: nowrap;
+}
 .search-btn:hover .tooltip,
 .voice-btn:hover .tooltip,
 .upload-icon-container:hover .tooltip,
 .youtube-app-container:hover .tooltip,
 .notify-container:hover .tooltip,
-.utube-logo-container:hover .tooltip {
+.utube-logo-container:hover .tooltip,
+.channel-container:hover .tooltip {
   opacity: 1;
 }
 .search-logo {
