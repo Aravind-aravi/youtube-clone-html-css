@@ -1,0 +1,29 @@
+.card {
+  border: 1px solid;
+  width: 170px;
+  display: inline-block;
+  margin-right: 10px;
+  vertical-align: top;
+}
+.card-img {
+}
+.card-title {
+  margin-top: 0;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+.card-desc {
+  margin-top: 0;
+  font-size: 12px;
+}
+.card-btn {
+  padding: 5px 15px 5px 15px;
+  border: none;
+  background-color: #4e98e9;
+  color: white;
+  cursor: pointer;
+  border-radius: 2px;
+}
+.card-content {
+  padding: 8px 10px 8px 10px;
+}

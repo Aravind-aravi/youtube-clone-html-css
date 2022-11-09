@@ -1,0 +1,49 @@
+.email-input {
+  padding: 5px 10px 5px 10px;
+  width: 250px;
+  margin-top: 0;
+}
+.email-text {
+  margin-bottom: 5px;
+  font-size: 12px;
+}
+.note {
+  font-size: 12px;
+}
+.join-btn {
+  padding: 10px 100px 10px 100px;
+  text-align: center;
+  background-color: rgb(41, 118, 211);
+  color: white;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+.image-circle {
+  width: 30px;
+  height: 30px;
+  object-fit: cover;
+  border-radius: 100px;
+  vertical-align: middle;
+}
+.input-tweet {
+  border: none;
+  padding: 5px 10px 5px 10px;
+}
+
+.tweet-btn {
+  background-color: rgb(41, 118, 211);
+  color: white;
+  padding: 5px 10px 5px 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  border: none;
+}
+.tweet {
+  margin-top: 20px;
+  padding: 5px 10px 5px 10px;
+  border: 1px solid black;
+  width: 300px;
+  border-radius: 4px;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}

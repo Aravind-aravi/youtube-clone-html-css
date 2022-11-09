@@ -1,0 +1,53 @@
+.pagination-btn {
+  padding: 15px 10px 15px 10px;
+  border: none;
+  cursor: pointer;
+  border: 1px solid gray;
+  margin-bottom: 10px;
+}
+.page-link {
+  padding: 15px 10px 15px 10px;
+}
+.stretch-btn {
+  padding: 10px 20px 10px 20px;
+  /* height: 32px; */
+  border: none;
+  background-color: #027403;
+  color: white;
+  cursor: pointer;
+  border-radius: 2px;
+  margin-bottom: 10px;
+  transition: padding 0.15s;
+}
+.stretch-btn:hover {
+  padding: 30px 60px 30px 60px;
+}
+.shadow-btn {
+  padding: 0px 20px 0px 20px;
+  height: 32px;
+  border: none;
+  background-color: #027403;
+  color: white;
+  cursor: pointer;
+  border-radius: 2px;
+  margin-bottom: 10px;
+  transition: box-shadow 0.15s;
+}
+.shadow-btn:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.grp-btn {
+  padding: 0px 20px 0px 20px;
+  height: 32px;
+  border: none;
+  background-color: #027403;
+  color: white;
+  cursor: pointer;
+  border-radius: 2px;
+  margin-right: 10px;
+  transition: padding 0.15s;
+}
+.grp-btn:hover {
+  padding: 0px 30px 0px 30px;
+}

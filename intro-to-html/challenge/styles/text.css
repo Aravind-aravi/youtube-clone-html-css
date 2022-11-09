@@ -1,0 +1,93 @@
+.prod-status {
+  font-family: Arial;
+  font-size: 12px;
+  color: red;
+
+  margin-bottom: 5px;
+}
+.prod-name {
+  margin-top: 0;
+  font-family: Arial;
+  font-size: 15px;
+  font-weight: bold;
+
+  opacity: 0.8;
+  margin-bottom: 5px;
+}
+.prod-highlight {
+  margin-top: 0;
+  font-family: Arial;
+  font-size: 25px;
+  font-weight: bold;
+
+  margin-bottom: 5px;
+}
+.prod-price {
+  margin-top: 0;
+  font-family: Arial;
+  font-size: 12px;
+  color: rgb(96, 96, 96);
+}
+.prod-buy-btn {
+  background-color: #336dd7;
+  color: white;
+  border: none;
+  font-family: Arial;
+  border-radius: 18px;
+  padding: 5px 10px 5px 10px;
+  cursor: pointer;
+}
+.prod {
+  text-align: center;
+}
+.current-reading {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.current-country {
+  font-family: Arial;
+  font-size: 12px;
+  color: rgb(96, 96, 96);
+}
+.current-high {
+  margin-top: 0;
+  font-family: Arial;
+  font-size: 12px;
+  color: green;
+  margin-bottom: 5px;
+}
+.current-value {
+  margin-top: 0;
+  font-family: Arial;
+  font-size: 12px;
+  color: rgb(96, 96, 96);
+}
+.current-low {
+  margin-top: 0;
+  font-family: Arial;
+  font-size: 12px;
+  color: red;
+}
+.post-title {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+.post-time {
+  font-family: Arial;
+  color: rgb(96, 96, 96);
+  font-size: 15px;
+}
+.post-descrip {
+  margin-top: 0;
+  font-family: Arial;
+  width: 470px;
+  font-size: 15px;
+  margin-bottom: 20px;
+}
+.post-link {
+  color: #336dd7;
+}

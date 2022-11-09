@@ -1,0 +1,36 @@
+.name-input {
+  display: block;
+  margin-bottom: 10px;
+}
+.survey-btn {
+  padding: 5px 10px 5px 10px;
+  cursor: pointer;
+  /* display: inline-block; */
+}
+.survey-text {
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.google-search {
+  display: block;
+  padding: 10px 100px 10px 15px;
+  width: 250px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.15);
+}
+.google-logo {
+  display: block;
+}
+.google {
+  margin-top: 10px;
+  text-align: -webkit-center;
+}
+.google-btn {
+  margin-top: 30px;
+  padding: 5px 10px 5px 10px;
+  cursor: pointer;
+  border: none;
+  margin-right: 10px;
+}

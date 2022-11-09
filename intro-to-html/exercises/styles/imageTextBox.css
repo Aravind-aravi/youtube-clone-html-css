@@ -1,0 +1,29 @@
+.image-one {
+  width: 200px;
+  border-radius: 6px;
+}
+.image-two {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  border: 2px solid black;
+  text-align: center;
+}
+.image-three {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 100px;
+}
+.input-normal {
+  padding: 5px 10px 5px 10px;
+  border-radius: 4px;
+  margin-right: 10px;
+}
+.input-search {
+  padding: 10px 15px 10px 10px;
+  width: 300px;
+  border-radius: 25px;
+  border: none;
+  box-shadow: inset 1px 1px 8px rgba(0, 0, 0, 0.15);
+}
